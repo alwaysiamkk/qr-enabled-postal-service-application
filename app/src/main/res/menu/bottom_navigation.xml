@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/qr_generator"
+        android:icon="@drawable/generate"
+        android:state_checked="true"
+        android:color="@color/red"
+        android:title="Generate" />
+    <item
+        android:id="@+id/qr_scanner"
+        android:icon="@drawable/scan"
+        android:title="Scan"
+        />
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>

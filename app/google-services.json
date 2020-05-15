@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345837756959",
+    "firebase_url": "https://qrps-3389e.firebaseio.com",
+    "project_id": "qrps-3389e",
+    "storage_bucket": "qrps-3389e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345837756959:android:59909c69983cf61bc6eb2a",
+        "android_client_info": {
+          "package_name": "com.example.qrps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345837756959-anu232sm1cn1gbko0skdpa8rrf1l6b0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFWIxGnWnbklq2NMLaJqXNow91Gwkm8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345837756959-anu232sm1cn1gbko0skdpa8rrf1l6b0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

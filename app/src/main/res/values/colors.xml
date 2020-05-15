@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#FF3D3D</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="tabTint">#1A1A1A</color>
+    <color name="red">#FF0000</color>
+    <color name="dis">#676767</color>
+</resources>
