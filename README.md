@@ -1,4 +1,4 @@
-# qr-enabled-postal-service-application
+# QR Postal Service
 QR Postal Service is a basic Android Application which focuses on fixing a basic potential physical sensitive information malpractice. 
 This app is integrated with Firebase for Authentication stuff and we make use of his details. User who makes an account will get access to
 enter details of any of his Post receivers so that this app creates a new unique QR code so that the user can utilize that code image rather 
